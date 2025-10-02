@@ -1,4 +1,7 @@
 torch
 transformers
 youtube-transcript-api
-gradio
+streamlit
+fastapi
+requests
+uvicorn
